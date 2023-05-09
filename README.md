@@ -1,5 +1,5 @@
 # Projeto IC-UFAL
-Projeto final da disciplina Eng de Software e Reuse de SOftware, ministradas pelo professor Arturo Hernandes Dominguez
+Projeto final da disciplina Eng de Software e Reuse de Software, ministradas pelo professor Arturo Hernandes Dominguez
 
 # Tutorial para rodar o projeto
 
